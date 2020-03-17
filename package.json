@@ -1,9 +1,13 @@
 {
-  "name": "serverless-s3-remover",
-  "version": "0.6.0",
+  "name": "@purple/serverless-s3-remover",
+  "version": "0.7.0",
   "main": "index.js",
-  "repository": "git@github.com:sinofseven/serverless-s3-remover.git",
+  "repository": "git@github.com:purple-technology/serverless-s3-remover.git",
   "author": "sinofseven(workspace) <luciferous.development@gmail.com>",
+  "contributors": [
+    "Filip Pýrek <fpyrek@purple-technology.com> (https://www.purple-technology.com/)",
+    "Pavol Jediny <pjediny@purple-technology.com> (https://www.purple-technology.com/)"
+  ],
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.1.0",

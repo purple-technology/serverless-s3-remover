@@ -1,6 +1,12 @@
+Copyright for portions of project "@purple/serverless-s3-remover" are held by [sinofseven, 2017]
+as part of project "serverless-s3-remover".
+All other copyright for project "@purple/serverless-s3-remover" are held by [Purple Technology s.r.o., 2020].
+
 MIT License
 
 Copyright (c) 2017 sinofseven
+
+Copyright (c) 2020 Purple Technology s.r.o.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
